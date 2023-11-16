@@ -92,4 +92,3 @@ Redhat / Ansiblefest - Presented at Ansiblefest 2023 on Event driven ansible for
  - **August 2005 - Febuary 2007**
   ####  Comcast Cable - Operations.
   -  Troubleshot home network and back office customer related issues within the Comcast network in the Pittsburgh region. 
- 
