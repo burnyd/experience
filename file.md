@@ -1,4 +1,4 @@
-# Daniel Hertzberg 
+# Daniel Hertzberg
 
 | **Name**          | Daniel Hertzberg                                   |
 | ------------------| ---------------------------------------------------|
@@ -28,9 +28,9 @@ I am an IT professional who knows a little about a wide variety of topics.  I ha
 
 [ONUG](https://onug.net/) - I have given seminars and technical track sessions on network automation, network programmability and tooling.
 
-[NYNOG](https://www.nynog.org/events) - Talks on [Openconfig](https://www.youtube.com/watch?v=s6DY18y-bZ8) and [Kubernetes networking](https://www.nynog.org/events/2022/6/9/nynog-20) 
+[NYNOG](https://www.nynog.org/events) - Talks on [Openconfig](https://www.youtube.com/watch?v=s6DY18y-bZ8) and [Kubernetes networking](https://www.nynog.org/events/2022/6/9/nynog-20)
 
-[Tech Field Day](https://techfieldday.com/companies/arista-networks/) - [Telegraf Cloudvision integration](https://www.youtube.com/watch?v=erTGcvAm2zY&t=1s) 
+[Tech Field Day](https://techfieldday.com/companies/arista-networks/) - [Telegraf Cloudvision integration](https://www.youtube.com/watch?v=erTGcvAm2zY&t=1s)
 
 [Arista Openconfig demos](https://youtube.com/playlist?list=PL6kEnPnH7OA5b_S_GFmylH1KGBRe01v5Y&si=Fp7yZ_cyYHlN1DKZ)
 
@@ -59,7 +59,7 @@ Redhat / Ansiblefest - Presented at Ansiblefest 2023 on Event driven ansible for
 
 **CCIE SP** - Cisco Certified Industry Expert Service Provider #37401
 
-## Experience 
+## Experience
 
 - **April 2021 - Present**
   #### Arista Networks - Technical Marketing Engineer.
@@ -67,29 +67,28 @@ Redhat / Ansiblefest - Presented at Ansiblefest 2023 on Event driven ansible for
 
 - **September 2016 - April 2021**
   #### Arista Networks - Senior Systems Engineer.
-  - At Arista I am tasked with being a jack of all trades. Generally, as a SE at Arista I am responsible for talking to customers at the Engineering, CEO/CTO and executive level to leverage Arista. Day to day I could be working on anything from organizing large projects for service providers, cloud providers and large enterprises to writing code to automate simple functions within a company. 
+  - At Arista I am tasked with being a jack of all trades. Generally, as a SE at Arista I am responsible for talking to customers at the Engineering, CEO/CTO and executive level to leverage Arista. Day to day I could be working on anything from organizing large projects for service providers, cloud providers and large enterprises to writing code to automate simple functions within a company.
 
 - **January 2013 - September 2016**
   ####  PNC Bank - Lead Infrastructure Engineer.
-  - Designing,supporting and developing future data center growth within PNC's data centers. Day to day I design,troubleshoot and implement PNC's network,virtualization and storage infrastructure. 
+  - Designing,supporting and developing future data center growth within PNC's data centers. Day to day I design,troubleshoot and implement PNC's network,virtualization and storage infrastructure.
 
 - **November 2011 - January 2013**
   ####  Fedex Ground - Network Engineer.
-  - Working in a team for all Fedex ground facilities. My job is to provide connectivity to and from all Fedex ground remote sites to backhaul to our datacenters in Pittsburgh,Memphis and Colorado. I am responsible for general network design of remote sites, setting up high availability VMware pods with Nexus equipment, provisioning circuits and BGP peering with upstream providers. Working with 6500s,3750,7200,ASR, Nexus 5k/7k, WAAS, ACS and other high end Cisco devices. 
+  - Working in a team for all Fedex ground facilities. My job is to provide connectivity to and from all Fedex ground remote sites to backhaul to our datacenters in Pittsburgh,Memphis and Colorado. I am responsible for general network design of remote sites, setting up high availability VMware pods with Nexus equipment, provisioning circuits and BGP peering with upstream providers. Working with 6500s,3750,7200,ASR, Nexus 5k/7k, WAAS, ACS and other high end Cisco devices.
 
 - **October 2010 - November 2011**
   ####  Expedient Communications - Network engineer.
-  - Working in a 24x7x365 Data Center,Service provider environment. Managing a network infrastructure that spans surrounding data centers within North Eastern area. Most of the work required from day to day is generally Cisco Routing and Switching, Wireless, Cisco Security Appliances , Juniper Router and Switching and Juniper Security Appliances. Day to Day activities are focused around troubleshooting the following: Routing Protocols(EIGRP and OSPF),BGP to upstream providers, IPsec VPN tunnels, Firewall Policies and Load balancing (F5s and Citrix Netscalers) 
- 
+  - Working in a 24x7x365 Data Center,Service provider environment. Managing a network infrastructure that spans surrounding data centers within North Eastern area. Most of the work required from day to day is generally Cisco Routing and Switching, Wireless, Cisco Security Appliances , Juniper Router and Switching and Juniper Security Appliances. Day to Day activities are focused around troubleshooting the following: Routing Protocols(EIGRP and OSPF),BGP to upstream providers, IPsec VPN tunnels, Firewall Policies and Load balancing (F5s and Citrix Netscalers)
+
  - **March 2009 - September 2010**
   ####  Fedex Ground - Network Operations.
-  - Monitor and watch all Fedex networks nationwide. Remotely monitoring Cisco routers, switches, and access points hands on trouble shooting with Cisco routers, switches and local VLAN. Proficient use of Cisco IOS. Wide area network experience with point to point and point to multi point circuits over BGP and internal gateway routing protocols including OSPF and EIGRP. 
- 
+  - Monitor and watch all Fedex networks nationwide. Remotely monitoring Cisco routers, switches, and access points hands on trouble shooting with Cisco routers, switches and local VLAN. Proficient use of Cisco IOS. Wide area network experience with point to point and point to multi point circuits over BGP and internal gateway routing protocols including OSPF and EIGRP.
+
  - **Febuary 2007 - March 2009**
   ####  Diamonstar Technologies - Technician.
   - My day to day responsibilities are to assist customers over the phone with their networking and hardware issues. Work experience related to all flavors of windows OS's from 9x to windows 7. Experience with VMware as needed to test software for multiple windows OS's. As Diamondstar grew I became proficient with both Cisco and VMware. Job experience included P2V servers setting up new virtual guests and setting up networking for customers. As well as VPN connectivity from the customer to the data center.
 
  - **August 2005 - Febuary 2007**
   ####  Comcast Cable - Operations.
-  -  Troubleshot home network and back office customer related issues within the Comcast network in the Pittsburgh region. 
- 
+  -  Troubleshot home network and back office customer related issues within the Comcast network in the Pittsburgh region.
