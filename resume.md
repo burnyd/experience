@@ -36,6 +36,11 @@ I am an IT professional who knows a little about a wide variety of topics.  I ha
 
 [USNUA](https://www.usnua.com/) - Presented several times all over the US on several different topics.  Openconfig, Ansible and Go.
 
+[NANOG Golang for network engineers](https://youtu.be/cKx1VU4yMHI?si=wR4rTBZ0wCU-6WFX) - Presented at NANOG 90 Go lang for network engineers.
+
+[NANOG Panel Go vs Python](https://youtu.be/IsvzeimmF2I?si=eYewYA1SaLdSyZPW) - Sat on a Go vs Python Panel rambling about Go for network engineers at NANOG 90.
+
+
 Redhat / Ansiblefest - Presented at Ansiblefest 2023 on Event driven ansible for remediating network issues with streaming telemetry and ansible.
 
 ## Production tools / integrations.
